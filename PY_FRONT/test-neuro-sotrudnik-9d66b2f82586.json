@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "test-neuro-sotrudnik",
+  "private_key_id": "9d66b2f825866857d3b8d84b30446852e79ad5d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDuEMcII5iEoa7h\ntfnPjm/QYPht+pLs9tBZLi/KqTsJB0q4znw8SGxAS+GXDLvRGTsIJ42LBjbTb1tp\nrzLRTGRdK9aQ6FgxarXeJ8Z4IduWtXE+p+APFQOlmgUjmkXT7LR/AnD3IG3GZB6k\nvWWwA0TUKclf1NhgE6306ih3Whrp9XIHDfQR9VaYj7TRHsIJCuZdYRF02G2uPx6l\nZMkclBxkbKYg0UG1vNU0tfX6JiYHerkPyydHcVByh/IOOe4tBpJB4rwYzmRi/xu3\nxCPCOp3w17amYMIRuBqgBWSJQZIWTmR+LyN5ile6YDDSp+oUI7K3Fk+4revIgP+o\nyVB+vYV5AgMBAAECggEAb0B66qRL2at/QO6cM/FB8pTmc+rV75Q18H8jiWdFdeYo\n9q1UJI3JvNBZN5AVU1WhnyFwxYfdZjiTdRORQXscKehbKLPTxyAxpoRa/PgBmO/o\n4JluHU46OpD8FtO5Dxz+ip428V3/vuc55M23sCYO68EtYLHkfh2kPSCSUZhTnIIW\n8YdH9kob7Qystk/sP5T0jWFQ9+hiCZLgAVhl5fars79aA32MCcYQAFrF2xhEfuu+\nF920qK1v/vcu2Hz7lO/XqIw0oXk3AUQb75mTMSNh+aduBpdYCntJ1CAl+Sof3XBC\n8pN8JDcLZg6V8TQ7JC/6V4iwQ81NhPQjEVgfTNFPmwKBgQD+4CAbUQkGvusxsgFJ\n1UPqy07VCMWUz1ps4pC6IUtPiv8CfBKRO8dKyXMBSjp4VY/TZLdI+OgkNsa8FYAN\nFWms0MdWxCqTD1awWJMHFkPBxu4luzh5t7i9JJPZ2Nasp2L7YAtNiH+SbCaMooHq\nT6Kkucf2gw8h93AVds674aKVgwKBgQDvHapqonAj+UAgFBsA0WnoGJTsLAAsklYH\nxE3yxIeXBP5nFNPB5chFfkRhFKjXSnWCtTS460Dxc35kceeY1NB6OprR1ZmyBOed\nPzT3lhSVNtGxIhRry1GgHWlkIKMxO/rqxrZCO2ROBmcL1Z8YDO6RHzAmYCp19ZR/\nm8UjMrsEUwKBgQCSffd2O+lYOzurYIhlC3Lx7NDumRAXK+bpVn+gu6oxmc5gezeg\nyh8N2SOExkk9CNCVy/mcs5OZ3PH1ANaMrpYCgi1QrYda5yIIUaCQHjfrlI8kmKsp\nKnPAItnoCD27FqpJmTZl5eKNIiQ2COFq70KoMy+/fCyidTmy3IqOam2sSQKBgQCy\nvytooVtRGP89u6nf96vCy7VvwwiySQY0siNO6mktlJcUubX+iWYnxNca91Wr8sZb\nWlg6L+qRVDPUpG1rixL5fBvF5nYJZK87lkdjGXbzgFJKpt47Inc3SSVCqz8zC9Jr\ndPZEFp/Jz/FyIFPYp7ojE/xrg5HaMiW7Kte4kzDIbwKBgCtft01fF8QmZ3JB4NtR\nb7YvuhRu/0IFR06AUyEG92rgQ5TMMEnt3YigZCqdexSyLrmq0PNftQgOLH2XkquV\nI/AUsTMkZxU8Z3ER4fIidli0ofVF9yc42eAr1P9lz3NlEEEMmWD030zue2NGQNXc\nZC2te9hX2jm+mM5dmnVLCRYd\n-----END PRIVATE KEY-----\n",
+  "client_email": "neuro-tester@test-neuro-sotrudnik.iam.gserviceaccount.com",
+  "client_id": "106237631771443197243",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neuro-tester%40test-neuro-sotrudnik.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
